@@ -1,0 +1,15 @@
+p{
+    color: pink;
+}
+.cor-azul{
+    color: royalblue;
+}
+
+a{
+    background-color: #000000;
+    padding: 5px 10px 5px 10px;
+    color: #ffffff;
+}
+a:hover{
+    background-color: #666666;
+}
